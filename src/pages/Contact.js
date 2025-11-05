@@ -1,12 +1,12 @@
 import react from "react";
 import { useNavigate } from "react-router-dom";
-function Produk() {
+function contact(){
     return(
         <div>
             <h1>
-                Kategori
+                Contact
             </h1>
         </div>
     )
 }
-export default Produk;
+export default contact;
